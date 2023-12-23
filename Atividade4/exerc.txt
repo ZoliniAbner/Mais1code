@@ -1,0 +1,73 @@
+Lista de exercicios para estrutura de repetição
+
+Questão 1: Escreva um programa que exiba números pares de 2 a 100 usando uma estrutura de
+repetição.
+
+Questão 2: Crie um programa que calcule a soma dos quadrados dos números de 1 a 50 usando uma
+estrutura de repetição.
+
+Questão 3: Gere a sequência de números de Fibonacci até que o próximo número na sequência seja
+maior que 1000 usando uma estrutura de repetição.
+
+Questão 4: Crie um programa que calcule o produto de todos os números primos de 1 a 20 usando
+uma estrutura de repetição.
+
+Questão 5: Escreva um programa que exiba os números de 1 a 100, mas substitua os múltiplos de 3
+por "Fizz", os múltiplos de 5 por "Buzz" e os múltiplos de ambos por "FizzBuzz" usando uma
+estrutura de repetição.
+
+
+Questão 6: Escreva um programa que exiba os primeiros 20 termos da sequência de números de Pell
+usando uma estrutura de repetição. A sequência de Pell começa com 0 e 1, e cada termo
+subsequente é a soma dos dois termos anteriores multiplicados por 2.
+
+Questão 7: Crie um programa que calcule o produto de todos os números ímpares de 1 a 50 usando
+uma estrutura de repetição.
+
+Questão 8: Gere uma pirâmide de números como a mostrada abaixo usando uma estrutura de
+repetição:
+1
+22
+333
+4444
+55555
+
+
+Questão 9: Escreva um programa que solicite ao usuário um número e, em seguida, exiba a
+sequência de Fibonacci até o valor mais próximo ou igual ao número inserido usando uma estrutura
+de repetição.
+
+Questão 10: Desenvolva um programa que calcule o valor de π (Pi) usando a fórmula de Leibniz
+para π. Quanto mais termos da série você usar, mais preciso será o valor. Use uma estrutura de
+repetição para somar os termos da série.
+
+
+Lista de exercicios sobre Array
+
+
+Exercício 1: Crie um array com os nomes de cinco cores e exiba-o no console.
+
+Exercício 2: Dado um array de números, escreva um programa para encontrar o maior número no
+array.
+
+Exercício 3: Crie um array com frutas e, em seguida, adicione mais duas frutas a ele.
+
+Exercício 4: Dado um array de números, escreva um programa para calcular a média dos valores
+no array.
+
+
+Exercício 5: Crie um array de números e ordene-o em ordem crescente.
+
+Exercício 6: Dado um array de palavras, escreva um programa para encontrar a palavra mais
+longa no array.
+
+Exercício 7: Crie um array de números e encontre todos os números pares no array.
+
+Exercício 8: Dado um array de nomes, escreva um programa para verificar se um nome específico
+está presente no array.
+
+Exercício 9: Crie um array de números e crie um novo array que contenha apenas os números
+maiores que 10.
+
+Exercício 10: Dado um array de números, escreva um programa para encontrar a soma de todos os
+números ímpares no array.
